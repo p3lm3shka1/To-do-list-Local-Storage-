@@ -2,6 +2,9 @@
 
 Simple to-do list with localStorage.
 
+# Live
+https://p3lm3shka1.github.io/To-do-list-Local-Storage-/
+
 ## Features
 - Add tasks
 - Delete tasks
@@ -15,3 +18,4 @@ Open `index.html` in your browser.
 2. Press **F12** to open DevTools.
 3. Go to **Application** → **Local Storage**.
 4. Select your site and find the key (e.g. `todos`).
+
